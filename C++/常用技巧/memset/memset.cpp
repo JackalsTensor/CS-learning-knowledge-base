@@ -10,3 +10,8 @@ int main()
   memset(arr,'x',5);
   cout<<arr<<endl;
 }
+
+/"
+hello world                                                                                                             
+xxxxx world   
+"/
